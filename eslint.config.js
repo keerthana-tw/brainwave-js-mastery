@@ -29,7 +29,8 @@ export default [
         { allowConstantExport: true },
       ],
       'quotes': [2, 'single'],
-      'semi': [2, 'always']
+      'semi': [2, 'always'],
+      'object-curly-spacing': ['error', 'always']
     },
   },
 ];
