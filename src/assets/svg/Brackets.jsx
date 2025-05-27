@@ -1,5 +1,5 @@
 const brackets = (position) =>
-  position === "left" ? (
+  position === 'left' ? (
     <svg
       width="5"
       height="14"
